@@ -46,3 +46,5 @@ Y vemos que enlaces (JOINs) habrá que realizar entre las tablas.
 Podéis elegir la plataforma que queráis para realizar el cuadro de mando. Lo importante es que mostréis un cuadro de mando visual, empleando campos de texto e imagen para que sea un resultado visual. No os cortéis con dar contexto e introducir información sobre qué habéis asumido en vuestro análisis. No hacen falta muchas agregaciones/visualizaciones, solo algunas clave para mostrar datos _curiosos_ que hayáis visto.
 
 Os recomendamos que uséis PowerBI dado que es lo que más hemos visto y más os encontraréis en el ámbito laboral.
+
+tableau public registrarse y power bi desktop 
